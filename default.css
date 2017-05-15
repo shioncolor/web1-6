@@ -9,9 +9,12 @@ padding: 40px 80px;
   border:green 1px solid;
  background-color: white;
 }
-
-
 .photo{
 float: left;
 margin-right: 30px;
+}
+.curry_picture:after{
+content:"";
+clear: both;
+  display: block;
 }
