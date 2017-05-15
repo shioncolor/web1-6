@@ -18,3 +18,8 @@ content:"";
 clear: both;
   display: block;
 }
+dt{
+clear: left;
+  float: left;
+  font-weight: bold;
+}
