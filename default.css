@@ -23,3 +23,8 @@ clear: left;
   float: left;
   font-weight: bold;
 }
+
+.explanation{
+float: left;
+width: 468px;
+}
