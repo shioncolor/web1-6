@@ -1,11 +1,11 @@
-@chaeset "UTF-8";
+@charset "UTF-8";
 
 body{
 background-color:#D0E0C0;
 }
 
 #main{
-  width 798px;
+  width: 798px;
   margin: 40px auto;
 padding: 40px 80px;
   border:green 1px solid;
@@ -63,17 +63,17 @@ border-collapse: collapse;
 
 th{
 border: 1px solid lightcoral;
-  background-color: mostyrose;
-  padding 5px;
-  width 100px;
-  text-align: center:
+  background-color: mistyrose;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
 }
 
 td{
   border: 1px solid lightcoral;
-  padding 5px;
-  width 80px;
-  text-align: right:
+  padding: 5px;
+  width: 80px;
+  text-align: right;
 }
 
 caption{
